@@ -1,0 +1,7 @@
+﻿CustomerID,Name,Age,Location,TotalSpent
+1,Alice,30,New York,1350
+2,Bob,25,Los Angeles,1250
+3,Charlie,35,Chicago,300
+4,David,40,Houston,300
+5,Eva,28,San Francisco,560
+,,,,70
